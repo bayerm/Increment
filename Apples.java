@@ -6,8 +6,7 @@ class Apples {
 		Scanner scan = new Scanner(System.in); //change
 		int tuna = 5;
 		int bass = 18;
-		++tuna;
-		System.out.println(tuna);
+		System.out.println(++tuna);
 	}
 
 }
